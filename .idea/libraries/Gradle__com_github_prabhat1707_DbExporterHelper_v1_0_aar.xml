@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.prabhat1707:DbExporterHelper:v1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e7ecb829fe40d153d78c08037f27982b/transformed/jetified-DbExporterHelper-v1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e7ecb829fe40d153d78c08037f27982b/transformed/jetified-DbExporterHelper-v1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e7ecb829fe40d153d78c08037f27982b/transformed/jetified-DbExporterHelper-v1.0/jars/libs/opencsv-2.3.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e7ecb829fe40d153d78c08037f27982b/transformed/jetified-DbExporterHelper-v1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.prabhat1707/DbExporterHelper/v1.0/bb6ac0f3180afd189ffa9315b8afdf798edbf0b7/DbExporterHelper-v1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
