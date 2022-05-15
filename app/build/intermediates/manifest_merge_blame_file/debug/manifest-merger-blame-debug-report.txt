@@ -1,0 +1,136 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.fridayapp.roomdatabase"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+11-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:5:5-81
+11-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:7:5-84
+13-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:7:25-81
+14
+15    <application
+15-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:9:5-54:19
+16        android:allowBackup="true"
+16-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.1.0] C:\Users\foundasion\.gradle\caches\transforms-3\519bd0e36bb27eb9da2ec2d90ecaf731\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:extractNativeLibs="false"
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:11:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:12:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:13:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:15:9-40
+26        <activity
+26-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:16:9-24:20
+27            android:name="com.fridayapp.roomdatabase.activities.MainActivity"
+27-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:17:13-52
+28            android:label="@string/app_name"
+28-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:18:13-45
+29            android:launchMode="singleTop"
+29-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:19:13-43
+30            android:theme="@style/AppTheme.NoActionBar" >
+30-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:20:13-56
+31            <intent-filter>
+31-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:21:13-23:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:22:17-69
+32-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:22:25-66
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:25:9-33:20
+36            android:name="com.fridayapp.roomdatabase.splash.SplashActivity"
+36-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:26:13-50
+37            android:label="@string/app_name" >
+37-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:27:13-45
+38            <intent-filter>
+38-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:28:13-32:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:22:17-69
+39-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:22:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:31:17-77
+41-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:31:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:34:9-37:56
+45            android:name="com.fridayapp.roomdatabase.activities.AddEditTaskActivity"
+45-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:35:13-59
+46            android:parentActivityName="com.fridayapp.roomdatabase.activities.MainActivity"
+46-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:36:13-66
+47            android:theme="@style/AppTheme" />
+47-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:37:13-44
+48        <activity
+48-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:38:9-41:59
+49            android:name="com.fridayapp.roomdatabase.activities.CompletedTaskActivity"
+49-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:39:13-61
+50            android:parentActivityName="com.fridayapp.roomdatabase.activities.MainActivity"
+50-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:40:13-66
+51            android:theme="@style/AppTheme.NoActionBar" />
+51-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:41:13-56
+52        <activity
+52-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:44:9-46:53
+53            android:name="com.fridayapp.roomdatabase.activities.TaskDetailsActivity"
+53-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:44:19-65
+54            android:label="Task Details"
+54-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:46:13-41
+55            android:parentActivityName="com.fridayapp.roomdatabase.activities.MainActivity" />
+55-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:45:13-66
+56
+57        <receiver
+57-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:47:9-48:40
+58            android:name="com.fridayapp.roomdatabase.alarm.AlarmReceiver"
+58-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:47:19-54
+59            android:process=":remote" />
+59-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:48:13-38
+60
+61        <meta-data
+61-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:49:9-51:57
+62            android:name="preloaded_fonts"
+62-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:50:13-43
+63            android:resource="@array/preloaded_fonts" />
+63-->C:\Users\foundasion\AndroidStudioProjects\Final_c7227258_ToDo_App\app\src\main\AndroidManifest.xml:51:13-54
+64
+65        <service
+65-->[androidx.room:room-runtime:2.2.5] C:\Users\foundasion\.gradle\caches\transforms-3\321b0732e59970fc031c868f2224c63d\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+66            android:name="androidx.room.MultiInstanceInvalidationService"
+66-->[androidx.room:room-runtime:2.2.5] C:\Users\foundasion\.gradle\caches\transforms-3\321b0732e59970fc031c868f2224c63d\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+67            android:directBootAware="true"
+67-->[androidx.room:room-runtime:2.2.5] C:\Users\foundasion\.gradle\caches\transforms-3\321b0732e59970fc031c868f2224c63d\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+68            android:exported="false" />
+68-->[androidx.room:room-runtime:2.2.5] C:\Users\foundasion\.gradle\caches\transforms-3\321b0732e59970fc031c868f2224c63d\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+69
+70        <provider
+70-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\foundasion\.gradle\caches\transforms-3\70ca22834771b72c13e942b6ff284586\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+71            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+71-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\foundasion\.gradle\caches\transforms-3\70ca22834771b72c13e942b6ff284586\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+72            android:authorities="com.fridayapp.roomdatabase.lifecycle-process"
+72-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\foundasion\.gradle\caches\transforms-3\70ca22834771b72c13e942b6ff284586\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+73            android:exported="false"
+73-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\foundasion\.gradle\caches\transforms-3\70ca22834771b72c13e942b6ff284586\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+74            android:multiprocess="true" />
+74-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\foundasion\.gradle\caches\transforms-3\70ca22834771b72c13e942b6ff284586\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+75    </application>
+76
+77</manifest>

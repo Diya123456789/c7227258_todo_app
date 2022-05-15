@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-xxhdpi_options.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-xxhdpi\\options.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_background_gradient.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_img.jpg.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-hdpi_completed_task_background_gradient.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-hdpi\\completed_task_background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\layout_activity_add_task.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\layout\\activity_add_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-xxxhdpi_options.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-xxxhdpi\\options.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_alarm.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_completed_tasks.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\completed_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\menu_options_menu.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_pending_tasks.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\pending_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_ic_save.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\layout_completed_task_item.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\layout\\completed_task_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\menu_detail_task.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\menu\\detail_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\layout_activity_task_details.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\layout\\activity_task_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_sort_black.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\sort_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_radio_selector_green.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\radio_selector_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_ic_add_time.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\ic_add_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_completed.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\completed.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\menu_add_task_menu.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\menu\\add_task_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-hdpi_options.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-hdpi\\options.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_logojpg.jpg.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\logojpg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_add.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\layout_splash.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_radio_selector_red.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\radio_selector_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.fridayapp.roomdatabase.app-merged_res-17:/layout_activity_add_task.xml.flat",
+        "source": "com.fridayapp.roomdatabase.app-main-19:/layout/activity_add_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_taskcon.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\taskcon.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_note_add.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\note_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_ic_tags.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\ic_tags.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_ic_apps_black_24dp.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\ic_apps_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-xhdpi_options.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-xhdpi\\options.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_warning.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_edit1.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\edit1.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\layout_about_app.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\layout\\about_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\layout_content_task_details.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\layout\\content_task_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_radio_selector_yellow.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\radio_selector_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\font_alata.ttf.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\font\\alata.ttf"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_date.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\date.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_delete_sweep.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\delete_sweep.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_delete1.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\delete1.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\layout_task_item.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\layout\\task_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_ic_empty_task.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\ic_empty_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_man.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\man.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_cover.jpg.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\cover.jpg"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_search.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_bg_edit_text_gray.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\bg_edit_text_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\layout_fragment_help.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\layout_completed_task_activity.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\layout\\completed_task_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_h_line.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\h_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\layout_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\layout\\bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-mdpi_options.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-mdpi\\options.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\menu_completed_menu_main.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\menu\\completed_menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\font_aleo_bold_italic.ttf.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\font\\aleo_bold_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_todo.jpeg.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\todo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable-v24_itme.png.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable-v24\\itme.png"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\drawable_pending.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\drawable\\pending.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-merged_res-17:\\font_acme.xml.flat",
+        "source": "C:\\Users\\foundasion\\.gradle\\daemon\\7.3.3\\com.fridayapp.roomdatabase.app-main-19:\\font\\acme.xml"
+    }
+]
