@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="cursive"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:textColor="#49C5B6"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        tools:text="Title" />
+
+    <TextView
+        android:id="@+id/tvDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="cursive"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+        android:textColor="@color/textColorBlue"
+        android:textColorLink="#49C5B6"
+        android:textSize="14sp"
+        tools:text="Description" />
+
+    <TextView
+        android:id="@+id/tvDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="cursive"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#49C5B6"
+        android:textSize="12sp"
+        tools:text="Date" />
+
+    <TextView
+        android:id="@+id/tvTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="cursive"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#49C5B6"
+        android:textSize="12sp"
+        tools:text="Time" />
+
+    <TextView
+        android:id="@+id/tvPrio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="cursive"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#49C5B6"
+        android:textSize="12sp"
+        tools:text="Priority" />
+
+    <TextView
+        android:id="@+id/tvAlarm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="cursive"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#49C5B6"
+        android:textSize="12sp"
+        tools:text="Alarm" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="cursive"
+            android:text="@string/last_updated_0n"
+            android:textColor="#49C5B6"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvUpdated"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:fontFamily="cursive"
+            android:text="@string/updated_date"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/textColorBlue"
+            android:textSize="12sp" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/add_new_task"
+            android:icon="@drawable/add"
+            android:iconTint="#49C5B6"
+            android:title="@string/add_new_todo"
+            android:textColor="#49C5B6"/>
+
+        <item
+            android:id="@+id/nav_activity"
+            android:icon="@drawable/pending_tasks"
+            android:iconTint="#49C5B6"
+            android:title="@string/all_todos"
+            android:textColor="#49C5B6"/>
+
+
+        <item
+            android:id="@+id/nav_activity1"
+            android:icon="@drawable/pending_tasks"
+            android:iconTint="#49C5B6"
+            android:title="@string/pending_todos"
+            android:textColor="#49C5B6"/>
+        <item
+            android:id="@+id/nav_activity2"
+            android:icon="@drawable/completed_tasks"
+            android:iconTint="#49C5B6"
+            android:title="@string/completed_todos"
+            android:textColorHint="#49C5B6"/>
+    </group>
+
+    <item
+        android:iconTint="#49C5B6"
+        android:title="Info">
+        <menu>
+            <item
+                android:id="@+id/help"
+                android:icon="@drawable/ic_apps_black_24dp"
+                android:iconTint="#49C5B6"
+                android:title="@string/help"
+                android:textColorHint="#49C5B6"/>
+
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_apps_black_24dp"
+                android:iconTint="#49C5B6"
+                android:title="@string/about_app"
+                android:textColorHint="#49C5B6"/>
+        </menu>
+    </item>
+</menu>
